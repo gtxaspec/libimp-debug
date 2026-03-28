@@ -1,2 +1,3 @@
 libimp-debug
 *.swp
+libimp-nodbg.so
